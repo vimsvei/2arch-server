@@ -1,0 +1,20 @@
+{
+  "name": "2arch-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "@nestjs/common": "^6.5.3",
+    "@nestjs/core": "^6.5.3",
+    "@nestjs/swagger": "^3.1.0",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^6.5.2",
+    "swagger-ui-express": "^4.0.7"
+  },
+  "devDependencies": {
+    "ts-loader": "^6.0.4",
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6",
+    "webpack-node-externals": "^1.7.2"
+  }
+}
